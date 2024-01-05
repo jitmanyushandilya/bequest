@@ -22,7 +22,7 @@ This is a simple web application built with TypeScript that allows users to secu
 
 ### Recover Data
 
-- In case the data has been tampered with and you want to recover the original data, follow these steps:
+- In case you want to recover the original data, follow these steps:
   1. Click the "Recover Data" button.
   2. The application will securely request the original data from the server.
   3. If the original data is available and the server can provide it, you will receive the plaintext data, and it will replace the current input field value.
